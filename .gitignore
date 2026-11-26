@@ -1,0 +1,13 @@
+# Rahasia dan konfigurasi lokal
+.env
+
+# Hasil build
+*.exe
+*.out
+/bin/
+
+# Editor dan OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
